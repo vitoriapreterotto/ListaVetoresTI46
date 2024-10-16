@@ -60,20 +60,20 @@ namespace ListaVetoresTI46
                         break;
 
                     case 7:
-                        lista01.exercicio07();
-                        break;
+                    //    lista01.exercicio07();
+                    //    break;
 
-                    case 8:
-                        lista01.exercicio08();
-                        break;
+                    //case 8:
+                    //    lista01.exercicio08();
+                    //    break;
 
-                    case 9:
-                        lista01.exercicio09();
-                        break;
+                    //case 9:
+                    //    lista01.exercicio09();
+                    //    break;
 
-                    case 10:
-                        lista01.exercicio10();
-                        break;
+                    //case 10:
+                    //    lista01.exercicio10();
+                    //    break;
 
                     default:
                         Console.WriteLine("Operação inválida.");
